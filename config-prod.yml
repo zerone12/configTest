@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: prod-test
+  profiles:
+    active: prod
