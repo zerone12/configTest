@@ -5,4 +5,4 @@ spring:
     active: dev
 ssg:
   config:
-    property: dev-test123456
+    property: dev-test123
