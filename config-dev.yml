@@ -1,5 +1,8 @@
 spring:
   application:
-    name: dev-test
+    name: config
   profiles:
     active: dev
+ssg:
+  config:
+    property: dev-test
