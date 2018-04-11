@@ -1,5 +1,8 @@
 spring:
   application:
-    name: prod-test
+    name: config
   profiles:
     active: prod
+ssg:
+  config:
+    property: prod-test
