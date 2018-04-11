@@ -1,5 +1,5 @@
 spring:
   application:
-    name: dev-test123
+    name: dev-test
   profiles:
     active: dev
